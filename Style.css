@@ -1,0 +1,190 @@
+body{
+    background-image: url(https://razgradnews.net/wp-content/uploads/2019/01/razgrad.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;   
+}
+h1{   
+    font-family: "Styles","consolas",sans-serif;       
+    border-top-style: solid;
+    border-bottom-style: solid;    
+    border-width: 7px;
+    width: 1250px;
+    border-top-color: green;
+    border-bottom-color: green;    
+    border-radius: 20px;   
+    padding: 7px;
+    background: linear-gradient(#f5e65f,#d4332a);   
+    margin-top: 30px;
+    text-shadow: 3px 3px 5px black;
+}
+img{
+    position: relative;
+    bottom: 90px;
+    right: 22px;
+    width: 275px;  
+}
+#box1{
+/*Шрифт*/
+font-family: "Styles","consolas",sans-serif;
+font-size: 25px;
+/*Цветове*/
+background-color: azure;
+background: linear-gradient(to left, #32a866,#95dbce,#5aedb5);   
+color:black;
+/*Border*/
+border-style:solid;
+border-radius: 80px;
+border-color: burlywood;
+border-width: 7px;
+width: 400px;
+padding: 1px;
+height: 250px;
+opacity: 0.8;
+/**/
+position: relative;
+margin-left: 50px;
+}
+#box2{
+    /*Шрифт*/
+font-family: "Styles","consolas",sans-serif;
+font-size: 25px;
+/*Цветове*/
+background-color: azure;
+background: linear-gradient(to left, #32a866,#95dbce,#5aedb5);   
+color:black;
+/*Border*/
+border-style:solid;
+border-radius: 80px;
+border-color: burlywood;
+border-width: 7px;
+width: 400px;
+padding: 1px;
+height: 250px;
+opacity: 0.8;
+/**/
+position: relative;
+left: 600px;
+bottom: 262px;
+}
+#box3{
+    /*Шрифт*/
+font-family: "Styles","consolas",sans-serif;
+font-size: 25px;
+/*Цветове*/
+background-color: azure;
+background: linear-gradient(to left, #32a866,#95dbce,#5aedb5);   
+color:black;
+/*Border*/
+border-style:solid;
+border-radius: 80px;
+border-color: burlywood;
+border-width: 7px;
+width: 400px;
+padding: 1px;
+height: 250px;
+opacity: 0.8;
+/**/
+position: relative;
+margin-left: 50px;
+left: 1110px;
+bottom: 524px;
+}
+
+#Text1{
+    font-family: "Styles","consolas",sans-serif;
+    font-size: 35px;   
+    position: relative; 
+    bottom: 20px;
+    color: forestgreen;
+    text-decoration: underline;    
+}
+#Text2{
+    font-family: "Styles","consolas",sans-serif;
+    font-size: 20px;     
+    font-weight: bold; 
+    position: relative;
+    bottom: 45px;   
+   
+}
+/*Бутона ми е това не пипаи*/
+a{
+    text-decoration: inherit;
+}
+.button{
+    color: darkgreen;
+    font-family: "proxima nova";
+    font-size: 26px;
+    font-weight: 50;
+    position:relative;
+    bottom:22px;
+
+    border: solid 2px;
+    border-radius: 50px;
+    padding: 10px 50px;
+}
+.button2{
+    color: darkgreen;
+    font-family: "proxima nova";
+    font-size: 26px;
+    font-weight: 50;
+    position:relative;
+    bottom:40px;
+
+    border: solid 2px;
+    border-radius: 50px;
+    padding: 10px 50px;
+}
+.button:hover{
+    background-color: lightgreen;
+    color:darkcyan;
+}
+#src1{
+    position: relative;
+    top: 20px;
+    margin: 50px;
+}
+#hrefchasovnik{
+   background-color: aliceblue;
+}
+.button2:hover{
+ background-color: lightgreen;
+ color:darkcyan
+}  
+#de{
+    font-family: "Styles","consolas",sans-serif;
+    font-size: 25px;       
+    bottom: 20px;  
+    border-style: solid;
+    height: 325px;
+    width: 1200px;
+    padding: 12px;
+    border-radius: 50px;
+    background: linear-gradient(to left, #32a866,#95dbce,#5aedb5);   
+    opacity: 0.9;
+}
+#src3{
+ position:absolute;
+ top: 100px;
+ height: 450px;
+ opacity: 1;
+}
+#src4{
+    position:absolute;
+ top: 100px;
+ height: 500px;
+ width: 300px;
+ opacity: 1;
+}
+
+
+
+   
+    
+
+
+
+
+
+
